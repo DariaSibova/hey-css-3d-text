@@ -30,3 +30,9 @@ body {
   overflow: hidden;
   background-color: #efebce;
 }
+.content {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
